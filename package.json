@@ -4,6 +4,6 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "express": "4.4.1"
+    "express": "4.4.1", "gm": "1.16.0"
   }
 }
